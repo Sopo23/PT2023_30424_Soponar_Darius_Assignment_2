@@ -1,0 +1,110 @@
+Moment0: 
+Server 2 will do: []. Waiting time:0
+Server 0 will do: []. Waiting time:0
+Moment1: 
+Server 2 will do: []. Waiting time:0
+Server 1 will do: []. Waiting time:0
+Server 0 will do: []. Waiting time:0
+Moment1: 
+Server 1 will do: []. Waiting time:0
+Server 0 will do: []. Waiting time:0
+Server 2 will do: []. Waiting time:0
+Moment2: 
+Server 1 will do: []. Waiting time:0
+Server 0 will do: []. Waiting time:0
+Server 2 will do: []. Waiting time:0
+Moment2: 
+Server 1 will do: []. Waiting time:0
+Server 2 will do: []. Waiting time:0
+Server 0 will do: []. Waiting time:0
+Moment3: 
+Server 1 will do: []. Waiting time:0
+Server 0 will do: [Client{id=7, arrival=3, service=5}]. Waiting time:5
+Server 2 will do: []. Waiting time:0
+Moment3: 
+Server 1 will do: []. Waiting time:0
+Server 0 will do: []. Waiting time:0
+Server 2 will do: []. Waiting time:0
+Moment4: 
+Server 1 will do: []. Waiting time:0
+Server 0 will do: [Client{id=7, arrival=3, service=4}]. Waiting time:4
+Server 2 will do: []. Waiting time:0
+Moment4: 
+Server 2 will do: [Client{id=4, arrival=4, service=2}]. Waiting time:2
+Moment5: 
+Server 0 will do: [Client{id=7, arrival=3, service=3}]. Waiting time:3
+Server 2 will do: [Client{id=8, arrival=5, service=2}]. Waiting time:2
+Server 1 will do: [Client{id=3, arrival=5, service=2}]. Waiting time:2
+Moment5: 
+Server 2 will do: [Client{id=4, arrival=4, service=1}]. Waiting time:1
+Server 1 will do: [Client{id=3, arrival=4, service=1}, Client{id=5, arrival=5, service=2}]. Waiting time:3
+Server 0 will do: [Client{id=0, arrival=4, service=2}]. Waiting time:2
+Moment6: 
+Server 0 will do: [Client{id=7, arrival=3, service=2}, Client{id=5, arrival=6, service=6}]. Waiting time:8
+Server 2 will do: [Client{id=8, arrival=5, service=1}, Client{id=4, arrival=6, service=2}, Client{id=6, arrival=6, service=6}]. Waiting time:9
+Server 1 will do: [Client{id=3, arrival=5, service=1}, Client{id=1, arrival=6, service=4}]. Waiting time:5
+Moment6: 
+Server 0 will do: [Client{id=0, arrival=4, service=1}, Client{id=8, arrival=6, service=2}]. Waiting time:3
+Server 1 will do: [Client{id=5, arrival=5, service=2}]. Waiting time:2
+Server 2 will do: [Client{id=1, arrival=6, service=6}]. Waiting time:6
+Moment7: 
+Server 0 will do: [Client{id=7, arrival=3, service=1}, Client{id=5, arrival=6, service=6}]. Waiting time:7
+Server 1 will do: [Client{id=1, arrival=6, service=4}, Client{id=9, arrival=7, service=3}]. Waiting time:7
+Server 2 will do: [Client{id=4, arrival=6, service=2}, Client{id=6, arrival=6, service=6}]. Waiting time:8
+Moment7: 
+Server 2 will do: [Client{id=1, arrival=6, service=5}]. Waiting time:5
+Server 1 will do: [Client{id=5, arrival=5, service=1}, Client{id=6, arrival=7, service=5}]. Waiting time:6
+Server 0 will do: [Client{id=8, arrival=6, service=2}]. Waiting time:2
+Moment8: 
+Server 2 will do: [Client{id=4, arrival=6, service=1}, Client{id=6, arrival=6, service=6}]. Waiting time:7
+Server 0 will do: [Client{id=5, arrival=6, service=6}, Client{id=0, arrival=8, service=6}]. Waiting time:12
+Server 1 will do: [Client{id=1, arrival=6, service=3}, Client{id=9, arrival=7, service=3}]. Waiting time:6
+Moment8: 
+Server 0 will do: [Client{id=8, arrival=6, service=1}, Client{id=2, arrServer 1 will do: [Client{id=6, arrival=7, service=5}]. Waiting time:5
+ival=8, service=3}, Client{id=9, arrival=8, service=2}]. Waiting time:6
+Server 2 will do: [Client{id=1, arrival=6, service=4}]. Waiting time:4
+Moment9: 
+Server 0 will do: [Client{id=5, arrival=6, service=5}, Client{id=0, arrival=8, service=6}]. Waiting time:11
+Server 1 will do: [Client{id=1, arrival=6, service=2}, Client{id=9, arrival=7, service=3}, Client{id=2, arrival=9, service=5}]. Waiting time:10
+Server 2 will do: [Client{id=6, arrival=6, service=6}]. Waiting time:6
+Moment9: 
+Server 2 will do: [Client{id=1, arrival=6, service=3}, Client{id=7, arrival=9, service=2}]. Waiting time:5
+Server 1 will do: [Client{id=6, arrival=7, service=4}]. Waiting time:4
+Server 0 will do: [Client{id=2, arrival=8, service=3}, Client{id=9, arrival=8, service=2}]. Waiting time:5
+Moment10: 
+Server 0 will do: [Client{id=5, arrival=6, service=4}, Client{id=0, arrival=8, service=6}]. Waiting time:10
+Server 1 will do: [Client{id=1, arrival=6, service=1}, Client{id=9, arrival=7, service=3}, Client{id=2, arrival=9, service=5}]. Waiting time:9
+Server 2 will do: [Client{id=6, arrival=6, service=5}]. Waiting time:5
+Moment10: 
+Server 1 will do: [Client{id=6, arrival=7, service=3}]. Waiting time:3
+Server 0 will do: [Client{id=2, arrival=8, service=2}, Client{id=9, arrival=8, service=2}]. Waiting time:4
+Moment11: 
+Server 2 will do: [Client{id=6, arrival=6, service=4}]. Waiting time:4
+Server 1 will do: [Client{id=9, arrival=7, service=3}, Client{id=2, arrival=9, service=5}]. Waiting time:8
+Server 0 will do: [Client{id=5, arrival=6, service=3}, Client{id=0, arrival=8, service=6}]. Waiting time:9
+Moment11: 
+Server 1 will do: [Client{id=6, arrival=7, service=2}]. Waiting time:2
+Server 0 will do: [Client{id=2, arriServer 2 will do: [Client{id=1, arrival=6, service=1}, Client{id=7, arrival=9, service=2}]. Waiting time:3
+val=8, service=1}, Client{id=9, arrival=8, service=2}]. Waiting time:3
+Moment12: 
+Server 2 will do: [Client{id=6, arrival=6, service=3}]. Waiting time:3
+Server 0 will do: [Client{id=5, arrival=6, service=2}, Client{id=0, arrival=8, service=6}]. Waiting time:8
+Server 1 will do: [Client{id=9, arrival=7, service=2}, Client{id=2, arrival=9, service=5}]. Waiting time:7
+Moment12: 
+Server 0 will do: [Client{id=9, arrival=8, service=2}]. Waiting time:2
+Server 2 will do: [Client{id=7, arrival=9, service=2}]. Waiting time:2
+Server 1 will do: [Client{id=6, arrival=7, service=1}]. Waiting time:1
+Moment13: 
+Server 0 will do: [Client{id=5, arrival=6, service=1}, Client{id=0, arrival=8, service=6}]. Waiting time:7
+Server 2 will do: [Client{id=6, arrival=6, service=2}]. Waiting time:2
+Server 1 will do: [Client{id=9, arrival=7, service=1}, Client{id=2, arrival=9, service=5}]. Waiting time:6
+Moment13: 
+Server 1 will do: []. Waiting time:0
+Server 2 will do: [Client{id=7, arrival=9, service=1}]. Waiting time:1
+Server 0 will do: [Client{id=9, arrival=8, service=1}]. Waiting time:1
+Moment14: 
+Server 1 will do: [Client{id=2, arrival=9, service=5}]. Waiting time:5
+Server 0 will do: [Client{id=0, arrival=8, service=6}]. Waiting time:6
+Server 2 will do: [Client{id=6, arrival=6, service=1}]. Waiting time:1
+Server 2 will do: []. Waiting time:0
+Server 0 will do: []. Waiting time:0
